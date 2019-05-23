@@ -4,7 +4,7 @@ var prefix = "#";
 var adminprefix = '#'
 
 
-const developers = ["ID"] 
+const developers = ["454441083758182400"] 
 
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
